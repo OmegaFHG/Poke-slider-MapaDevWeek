@@ -1,0 +1,33 @@
+@media (max-width: 620px) {
+    .slider{
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .button {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .poke-list {
+        height: 480px;
+    }
+
+    .card .container-image {
+        max-height: 230px;
+    }
+
+    .card .poke-info .pname {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .card .poke-info .hitpoint {
+        font-size: 14px;
+    }
+}

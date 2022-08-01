@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+.footer {
+    display:flex;
+    justify-content: center;
+    padding: 200px;
+    font-family: 'outfit', sans-serif;
+    color:rgb(241, 241, 241);
+    text-decoration: none;
+}
